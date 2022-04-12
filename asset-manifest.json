@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LeeDongChan-Korea/movieproject/static/css/main.683bbdf3.css",
-    "main.js": "/LeeDongChan-Korea/movieproject/static/js/main.91ffcfeb.js",
-    "index.html": "/LeeDongChan-Korea/movieproject/index.html",
-    "main.683bbdf3.css.map": "/LeeDongChan-Korea/movieproject/static/css/main.683bbdf3.css.map",
-    "main.91ffcfeb.js.map": "/LeeDongChan-Korea/movieproject/static/js/main.91ffcfeb.js.map"
+    "main.css": "/movieproject/static/css/main.683bbdf3.css",
+    "main.js": "/movieproject/static/js/main.91ffcfeb.js",
+    "index.html": "/movieproject/index.html",
+    "main.683bbdf3.css.map": "/movieproject/static/css/main.683bbdf3.css.map",
+    "main.91ffcfeb.js.map": "/movieproject/static/js/main.91ffcfeb.js.map"
   },
   "entrypoints": [
     "static/css/main.683bbdf3.css",
